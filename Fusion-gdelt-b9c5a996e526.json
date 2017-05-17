@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fusion-gdelt-167909",
+  "private_key_id": "b9c5a996e5260832a37b1a95fac53f566383ff24",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCuMU72VHpuFg7\nv/0cQuo03jq5o/2SHdnsKK82bSqNK+prK4TCLW1ydsNeHV+AQ2009B8S64OnCcxE\nijltTQZdcnRx66iLEMJ9PjBvwWyUgY8sK6r74WIBQSImE8qKn6uPK0dhh7AnjRW7\n0kjG9U3mYjlIMaDGpbpKRIRjhLZcU3gvR0lnTGKe6TnnONNXa9jV5VnwAsul2WYl\nOcrXnAAR2gXNXMtbkQ5+gZHNAZP51559qrm+MLVhdzRU4qiIJGSxAbbBbWkXliFs\n4NFX3ZPt+wymbE46Ed8Lz14oec7Anj2QHXmxLo/MgQwg2r72XzMXXmWvDDzM594c\n20WvwpjBAgMBAAECggEAD0pnyo8Ch1eU2NRMXEdw5sfl//qTCJdUK973VfnKk/K1\nN3HfvJ5z8BTIEKrpJe763g6m0LCH0mUgPOhHIYB2ldNNYOjAKnNyzQJGLBsZ8Kt1\nLQ3Hdny4r8qH6PTi5xx/YgBkXDybJkVGRffPA+NIGRBGLpd0aET5VP2pERDfKm63\nIJ0pKAFHA+c8fagys/fCwr/Uq027MK+RXb6GFkqsAItqEC1uxPxjaCRVP2Cnur65\nk/q6LBEQnEx46DaQI1fDjPa+mbwnBn1dsB8a99GLsh/FjpSwWuJb4biEI69wkxCS\nGRjB8iYsMiaMrb9kXNcTM0cLvBCYSWrrjAXX39jIpQKBgQDmXOqO+RlUOL42dt+4\n4fW97F3X58EkIs8QFr9LHrJWw+OwdpLBhk40I+rqcrVDf6L7/HhfzX0WLZBJADiN\nBPsUwAVlBQdRyNhNplSqbp88esPPMdh/QoxwNDDdPTesZQA9D6Ntz4UHkcwCrwWn\n0whS9egY3vl01JM7aznfepHdGwKBgQDYZG4M9t/zB+PtDy4XBKsUXtAuDrQKlNxe\nto2K8MVVYBkfwHANyrDiUdix0DrQ0F9/iFx6IozSJ+SarYzsYEusmFfrgSH0FwZx\n41OSZTrqtY0dRRv2HsRauZ7GnfoTPmTBQqskSz8g+kBct9ogKdFG++0a5bZWyO5D\niUCAtCNLUwKBgQCi5kHYKL6ImDeqPBWon+EvFN6ntvMVoqfaMLvFW0exo4R3XOIa\nh+b1aBDPCZ60xKV0m+xjkuRJsp69gLJ8xnDnE4K9FPlAFE8hWeW1P9TK5+Vft1fp\nZh35mm6ThJ7CAgpRI6XmGUFxQOCLZUkSjGDuiYY/UC4HN+uFsSWTqxFK0QKBgQC/\n4tbf8i+G8FFCjvp8+OvIJYePwAQReg2sg08ijP1ABvZgfKIg6MNP/eodS5xMPOri\nSYZP28FqPmvuacWUepPAWltkf98e9ygE5+Pc5p2HMjUPZpA0APZ3yTAtyjrOw75O\nzhK7HWq+kItwbKwlZ0+oFZAdEORPMuBtzREA0DyX9wKBgADGy8cJ9n6F4GrOPb2r\nfkA3wfvlGNL+1VH+V/Q5qtIJ5Vkn3NwGkJKpDug8fzIBw9C/U2o5UOm3q3qG60+T\nQNEuIauepmikM3Nq4+x5gZEckVyTtcmyJq2yrJE2Fg6VJ0UcasOTNZ1F4aW94MdF\nFEHvV/21XEfyfAvXc0pSuKOS\n-----END PRIVATE KEY-----\n",
+  "client_email": "fusion-gdelt@fusion-gdelt-167909.iam.gserviceaccount.com",
+  "client_id": "104479929197943966619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fusion-gdelt%40fusion-gdelt-167909.iam.gserviceaccount.com"
+}
